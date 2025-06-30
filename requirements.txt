@@ -1,0 +1,6 @@
+mlflow==3.0.1
+scikit-learn
+pandas
+numpy
+seaborn
+optuna

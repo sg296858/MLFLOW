@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/181043042044252208/c988833792b34dbf92e565bfecc880f3/artifacts
+end_time: 1751281789505
+entry_point_name: ''
+experiment_id: '181043042044252208'
+lifecycle_stage: active
+run_id: c988833792b34dbf92e565bfecc880f3
+run_name: wise-skink-418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751281712099
+status: 3
+tags: []
+user_id: LENOVO

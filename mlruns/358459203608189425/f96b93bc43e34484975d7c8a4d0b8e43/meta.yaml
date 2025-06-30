@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/358459203608189425/f96b93bc43e34484975d7c8a4d0b8e43/artifacts
+end_time: 1751271928175
+entry_point_name: ''
+experiment_id: '358459203608189425'
+lifecycle_stage: active
+run_id: f96b93bc43e34484975d7c8a4d0b8e43
+run_name: bedecked-wasp-942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751271924353
+status: 3
+tags: []
+user_id: LENOVO

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/181043042044252208/28f4d393de564ba28edbf65164e14127/artifacts
+deleted_time: 1751281712943
+end_time: 1751281620901
+entry_point_name: ''
+experiment_id: '181043042044252208'
+lifecycle_stage: deleted
+run_id: 28f4d393de564ba28edbf65164e14127
+run_name: handsome-wren-956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751281593316
+status: 4
+tags: []
+user_id: LENOVO

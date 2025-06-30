@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/358459203608189425/92b915d61d144e67ba1a89b6037d91a2/artifacts
+end_time: 1751270840963
+entry_point_name: ''
+experiment_id: '358459203608189425'
+lifecycle_stage: active
+run_id: 92b915d61d144e67ba1a89b6037d91a2
+run_name: youthful-elk-807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751270837951
+status: 3
+tags: []
+user_id: LENOVO

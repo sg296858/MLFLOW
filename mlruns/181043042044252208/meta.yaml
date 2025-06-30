@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/181043042044252208
+creation_time: 1751281280076
+experiment_id: '181043042044252208'
+last_update_time: 1751281280076
+lifecycle_stage: active
+name: Hyperparametertuning using GridSearchCV using MLFLOW

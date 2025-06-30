@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/358459203608189425/0d03890c0e2241eb928122326ce3470f/artifacts
+deleted_time: 1751271723337
+end_time: 1751271696369
+entry_point_name: ''
+experiment_id: '358459203608189425'
+lifecycle_stage: deleted
+run_id: 0d03890c0e2241eb928122326ce3470f
+run_name: welcoming-kit-928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751271694185
+status: 4
+tags: []
+user_id: LENOVO

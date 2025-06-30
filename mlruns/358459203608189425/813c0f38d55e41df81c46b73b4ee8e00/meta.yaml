@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/358459203608189425/813c0f38d55e41df81c46b73b4ee8e00/artifacts
+end_time: 1751270098221
+entry_point_name: ''
+experiment_id: '358459203608189425'
+lifecycle_stage: active
+run_id: 813c0f38d55e41df81c46b73b4ee8e00
+run_name: fortunate-croc-455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751270097896
+status: 3
+tags: []
+user_id: LENOVO

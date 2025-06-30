@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/358459203608189425/df744ec3499b48b180cb4c2e4ed4301c/artifacts
+deleted_time: 1751272383304
+end_time: 1751272323346
+entry_point_name: ''
+experiment_id: '358459203608189425'
+lifecycle_stage: deleted
+run_id: df744ec3499b48b180cb4c2e4ed4301c
+run_name: legendary-shoat-18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751272320298
+status: 4
+tags: []
+user_id: LENOVO

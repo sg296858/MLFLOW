@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/625600298053918143/d96fad2a34a74d66911a6734331b7e7f/artifacts
+deleted_time: 1751287020997
+end_time: 1751286594584
+entry_point_name: ''
+experiment_id: '625600298053918143'
+lifecycle_stage: deleted
+run_id: d96fad2a34a74d66911a6734331b7e7f
+run_name: melodic-swan-182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751286580784
+status: 4
+tags: []
+user_id: LENOVO

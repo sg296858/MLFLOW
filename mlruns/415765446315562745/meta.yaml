@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/415765446315562745
+creation_time: 1751282105008
+experiment_id: '415765446315562745'
+last_update_time: 1751282105008
+lifecycle_stage: active
+name: Hyperparametertuning using RandomizedSearchCV using MLFLOW

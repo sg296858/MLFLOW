@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/415765446315562745/6ac16f3ec4374e7090ecfbb0e283a5f1/artifacts
+deleted_time: 1751282335899
+end_time: 1751282106093
+entry_point_name: ''
+experiment_id: '415765446315562745'
+lifecycle_stage: deleted
+run_id: 6ac16f3ec4374e7090ecfbb0e283a5f1
+run_name: placid-kite-121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751282105828
+status: 4
+tags: []
+user_id: LENOVO

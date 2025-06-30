@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/358459203608189425/604b498c4f9340ca92056c8033d7899b/artifacts
+deleted_time: 1751271930387
+end_time: 1751271816480
+entry_point_name: ''
+experiment_id: '358459203608189425'
+lifecycle_stage: deleted
+run_id: 604b498c4f9340ca92056c8033d7899b
+run_name: clumsy-kite-250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751271812898
+status: 4
+tags: []
+user_id: LENOVO

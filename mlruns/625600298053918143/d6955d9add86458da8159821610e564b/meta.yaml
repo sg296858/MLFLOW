@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/625600298053918143/d6955d9add86458da8159821610e564b/artifacts
+deleted_time: 1751287021021
+end_time: 1751286181847
+entry_point_name: ''
+experiment_id: '625600298053918143'
+lifecycle_stage: deleted
+run_id: d6955d9add86458da8159821610e564b
+run_name: gentle-zebra-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751286181581
+status: 4
+tags: []
+user_id: LENOVO

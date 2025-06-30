@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/181043042044252208/c05f2c2139264cf7ac5493451959b573/artifacts
+deleted_time: 1751281712945
+end_time: 1751281281280
+entry_point_name: ''
+experiment_id: '181043042044252208'
+lifecycle_stage: deleted
+run_id: c05f2c2139264cf7ac5493451959b573
+run_name: blushing-squid-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751281281035
+status: 4
+tags: []
+user_id: LENOVO

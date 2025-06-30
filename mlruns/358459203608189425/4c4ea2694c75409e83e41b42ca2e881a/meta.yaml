@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/358459203608189425/4c4ea2694c75409e83e41b42ca2e881a/artifacts
+end_time: 1751272759072
+entry_point_name: ''
+experiment_id: '358459203608189425'
+lifecycle_stage: active
+run_id: 4c4ea2694c75409e83e41b42ca2e881a
+run_name: rogue-crow-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751272712869
+status: 3
+tags: []
+user_id: LENOVO

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/625600298053918143/c7ccf5940594438e8501b2c4e5dd7e5d/artifacts
+deleted_time: 1751285652223
+end_time: 1751285504430
+entry_point_name: ''
+experiment_id: '625600298053918143'
+lifecycle_stage: deleted
+run_id: c7ccf5940594438e8501b2c4e5dd7e5d
+run_name: enchanting-hog-273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751285504033
+status: 4
+tags: []
+user_id: LENOVO
